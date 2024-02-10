@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 -->
 <view>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashe233&show_icons=true&theme=synthwave" style="width: 40%;height:40%" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashe233&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" style="width: 30%;height:30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lynnette177&show_icons=true&theme=synthwave" style="width: 40%;height:40%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynnette177&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" style="width: 30%;height:30%" />
 </div>
 </view>
 <div align="center">
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-![](https://raw.githubusercontent.com/Ashe233/Ashe233/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Lynnette177/Lynnette177/output/github-contribution-grid-snake.svg)
