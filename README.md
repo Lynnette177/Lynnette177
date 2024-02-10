@@ -1,4 +1,6 @@
 ### Hi there 👋
+### Free cheat src will be released.
+### Star my respositories to AVOID BAN LOL
 
 <!--
 **Ashe233/Ashe233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
