@@ -15,5 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lynnette177&show_icons=true&theme=synthwave" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashe233&show_icons=true&theme=synthwave" /> 
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashe233&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+</div>
+<div align="center">
+  <a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=Call me a cheat hero&center=true&size=27" alt="Typing SVG" />
+  </a>
 </div>
