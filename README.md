@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is Lynnette, also known as 177 🚩
 ### Rigel's sole founder (Rigel used to be a populate cheat for various games)✨🎇✨
 ### Rigel is closed now all public free source here✨✈✨
 ### Free cheat src will be released.✨🎉✨
