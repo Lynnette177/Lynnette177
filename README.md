@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </view>
 <div align="center">
   <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=CC6699&width=435&lines=Cyber Security Reverse Engineering&center=true&size=25" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=CC6699&width=600&lines=Cyber Security Reverse Engineering&center=true&size=25" alt="Typing SVG" />
   </a>
 </div>
 <div align="center">
