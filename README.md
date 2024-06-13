@@ -1,8 +1,7 @@
 ### Hi there 👋 This is Lynnette, also known as 177 🚩
-### Rigel's sole founder (Rigel used to be a populate cheat for various games)✨🎇✨
-### Rigel is closed now all public free source here✨✈✨
-### Free cheat src will be released.✨🎉✨
+### Rigel's sole founder ✨🎇✨
 ### Star my repos to AVOID BAN LOL ⭐⭐⭐⭐⭐
+### Personal Blog : https://next.lynnette.uk
 
 <!--
 **Ashe233/Ashe233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
