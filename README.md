@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
   <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines= Those who imitate me perish. &center=true&size=27" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=Those who imitate me perish&center=true&size=26" alt="Typing SVG" />
   </a>
 </div>
 
