@@ -1,8 +1,5 @@
 ### Hi there 👋 This is Lynnette, also known as 177 🚩
 ### Rigel's sole founder ✨🎇✨
-### Star my repos to AVOID BAN LOL ⭐⭐⭐⭐⭐
-### Personal Blog : https://next.lynnette.uk
-
 <!--
 **Ashe233/Ashe233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,12 +22,12 @@ Here are some ideas to get you started:
 </view>
 <div align="center">
   <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=CC6699&width=600&lines=Cyber Security Reverse Engineering&center=true&size=25" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=CC6699&width=600&lines=Those who learn from me thrive&center=true&size=25" alt="Typing SVG" />
   </a>
 </div>
 <div align="center">
   <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=Call me a cheat hero&center=true&size=27" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=Those who imitate me perish.&center=true&size=27" alt="Typing SVG" />
   </a>
 </div>
 
