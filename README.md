@@ -1,5 +1,3 @@
-### Hi there 👋 This is Lynnette, also known as 177 🚩
-### Rigel's sole founder ✨🎇✨
 <!--
 **Ashe233/Ashe233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,15 +18,3 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynnette177&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" style="width: 30%;height:30%" />
 </div>
 </view>
-<div align="center">
-  <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=CC6699&width=600&lines=Those who learn from me thrive&center=true&size=25" alt="Typing SVG" />
-  </a>
-</div>
-<div align="center">
-  <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=Those who imitate me perish&center=true&size=26" alt="Typing SVG" />
-  </a>
-</div>
-
-![](https://raw.githubusercontent.com/Lynnette177/Lynnette177/output/github-contribution-grid-snake.svg)
