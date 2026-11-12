@@ -10,7 +10,7 @@
 
 ### About me
 
-I'm a direct-entry Ph.D. student jointly trained by the **University of Chinese Academy of Sciences (UCAS)** and **Zhongguancun Laboratory**. I received my bachelor's degree in **Cybersecurity** from **Beijing University of Posts and Telecommunications (BUPT)**.
+I'm a direct-entry Ph.D. student jointly trained by the **University of Chinese Academy of Sciences (UCAS)** and **ZGCLAB**. I received my bachelor's degree in **Cybersecurity** from **Beijing University of Posts and Telecommunications (BUPT)**.
 
 My research focuses on **AI agent security**, **software security**, and **advanced persistent threats (APTs)**. I also build tools for reverse engineering, mobile instrumentation, and everyday automation.
 
@@ -21,7 +21,6 @@ My research focuses on **AI agent security**, **software security**, and **advan
 | **[GirlHook](https://github.com/Lynnette177/GirlHook)** &nbsp; `C++` `Lua` | A Lua-scriptable Android ART hook framework for dynamic instrumentation. |
 | **[jbnjb-hook-framework](https://github.com/Lynnette177/jbnjb-hook-framework)** &nbsp; `Objective-C++` | An iOS function hooking framework for jailbroken and non-jailbroken environments. |
 | **[Unfairplayed](https://github.com/Lynnette177/Unfairplayed)** &nbsp; `Python` `macOS` | A native macOS toolkit for iOS app decryption, IPA management, injection, and debugging. |
-| **[LynnetteBot](https://github.com/Lynnette177/LynnetteBot)** &nbsp; `Swift` | A multipurpose bot connecting notifications, scheduled tasks, and campus services. |
 
 <p align="right"><a href="https://github.com/Lynnette177?tab=repositories">Explore all repositories →</a></p>
 
