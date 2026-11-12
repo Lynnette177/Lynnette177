@@ -30,5 +30,3 @@ My research focuses on **AI agent security**, **software security**, and **advan
   <source media="(prefers-color-scheme: dark)" srcset="assets/overview-dark.svg">
   <img alt="GitHub overview: public repositories, stars, followers, forks, and language distribution. Updated daily; the date appears in the image." src="assets/overview-light.svg" width="100%">
 </picture>
-
-<sub>Public GitHub data, refreshed daily. Stars, forks, and language bytes cover owned, non-fork repositories only.</sub>
