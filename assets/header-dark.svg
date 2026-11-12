@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+<title id="title">Lynnette</title>
+<desc id="desc">Explore internals. Build useful things. AI agent security, software security, and advanced persistent threats.</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}</style>
+<rect x=".5" y=".5" width="959" height="279" rx="18" fill="#11121c" stroke="#2a2b40"/>
+<defs><clipPath id="edge"><rect width="960" height="280" rx="18"/></clipPath></defs>
+<g clip-path="url(#edge)">
+<circle cx="822" cy="144" r="165" fill="#1c1b30"/>
+<g fill="none" stroke="#22203b" stroke-width="1.5">
+<circle cx="822" cy="144" r="133"/><circle cx="822" cy="144" r="104"/>
+<path d="M647 144h350M822 -20v330"/>
+<ellipse cx="822" cy="144" rx="166" ry="63" transform="rotate(-34 822 144)"/>
+</g>
+<text x="724" y="178" fill="#b9a0ff" font-size="100" font-weight="700" opacity=".22">177</text>
+<circle cx="694" cy="204" r="5" fill="#78ded6"/>
+<circle cx="914" cy="49" r="4" fill="#b9a0ff"/>
+</g>
+<text x="40" y="47" fill="#b9a0ff" font-size="12" class="mono" letter-spacing="1.8">LYNNETTE177 / RESEARCH &amp; ENGINEERING</text>
+<text x="37" y="127" fill="#f2f0ff" font-size="68" font-weight="700" letter-spacing="-2">Lynnette</text>
+<text x="40" y="171" fill="#f2f0ff" font-size="24" >Explore internals.</text>
+<text x="40" y="205" fill="#a5a5bf" font-size="24" >Build useful things.</text>
+<path d="M40 242h26" stroke="#78ded6" stroke-width="3"/>
+<text x="77" y="247" fill="#a5a5bf" font-size="11" class="mono" letter-spacing=".8">AI AGENT SECURITY  /  SOFTWARE SECURITY  /  APT</text>
+</svg>

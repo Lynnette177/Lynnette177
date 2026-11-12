@@ -1,20 +1,35 @@
-<!--
-**Ashe233/Ashe233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Lynnette — Explore internals. Build useful things." src="assets/header-light.svg" width="100%">
+</picture>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Direct-entry Ph.D. Student · UCAS &amp; Zhongguancun Laboratory</b><br>
+  <sub>AI Agent Security &nbsp; / &nbsp; Software Security &nbsp; / &nbsp; Advanced Persistent Threats</sub>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<view>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lynnette177&show_icons=true&theme=synthwave" style="width: 40%;height:40%" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynnette177&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" style="width: 30%;height:30%" />
-</div>
-</view>
+### About me
+
+I'm a direct-entry Ph.D. student jointly trained by the **University of Chinese Academy of Sciences (UCAS)** and **Zhongguancun Laboratory**. I received my bachelor's degree in **Cybersecurity** from **Beijing University of Posts and Telecommunications (BUPT)**.
+
+My research focuses on **AI agent security**, **software security**, and **advanced persistent threats (APTs)**. I also build tools for reverse engineering, mobile instrumentation, and everyday automation.
+
+### Selected work
+
+| Project | What it does |
+| :--- | :--- |
+| **[GirlHook](https://github.com/Lynnette177/GirlHook)** &nbsp; `C++` `Lua` | A Lua-scriptable Android ART hook framework for dynamic instrumentation. |
+| **[jbnjb-hook-framework](https://github.com/Lynnette177/jbnjb-hook-framework)** &nbsp; `Objective-C++` | An iOS function hooking framework for jailbroken and non-jailbroken environments. |
+| **[Unfairplayed](https://github.com/Lynnette177/Unfairplayed)** &nbsp; `Python` `macOS` | A native macOS toolkit for iOS app decryption, IPA management, injection, and debugging. |
+| **[LynnetteBot](https://github.com/Lynnette177/LynnetteBot)** &nbsp; `Swift` | A multipurpose bot connecting notifications, scheduled tasks, and campus services. |
+
+<p align="right"><a href="https://github.com/Lynnette177?tab=repositories">Explore all repositories →</a></p>
+
+### Open source, in numbers
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/overview-dark.svg">
+  <img alt="GitHub overview: public repositories, stars, followers, forks, and language distribution. Updated daily; the date appears in the image." src="assets/overview-light.svg" width="100%">
+</picture>
+
+<sub>Public GitHub data, refreshed daily. Stars, forks, and language bytes cover owned, non-fork repositories only.</sub>
