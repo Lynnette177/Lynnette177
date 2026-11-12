@@ -18,18 +18,18 @@
 <text x="928" y="183" fill="#65617e" font-size="12" text-anchor="end">Original public repositories · by code bytes</text>
 <defs><clipPath id="bar"><rect x="32" y="204" width="896" height="12" rx="6"/></clipPath></defs>
 <g clip-path="url(#bar)">
-<rect x="32.000" y="204" width="498.776" height="12" fill="#7ca8dd"/>
-<rect x="530.726" y="204" width="317.150" height="12" fill="#a895eb"/>
-<rect x="847.826" y="204" width="27.408" height="12" fill="#e5bb6c"/>
-<rect x="875.184" y="204" width="14.090" height="12" fill="#79ced4"/>
-<rect x="889.224" y="204" width="12.124" height="12" fill="#9ba3d9"/>
-<rect x="901.298" y="204" width="5.643" height="12" fill="#8fc9e9"/>
-<rect x="906.891" y="204" width="5.071" height="12" fill="#b6a1d9"/>
-<rect x="911.913" y="204" width="16.137" height="12" fill="#8a8c9c"/>
+<rect x="32.000" y="204" width="498.639" height="12" fill="#7ca8dd"/>
+<rect x="530.589" y="204" width="317.063" height="12" fill="#a895eb"/>
+<rect x="847.601" y="204" width="27.647" height="12" fill="#e5bb6c"/>
+<rect x="875.199" y="204" width="14.086" height="12" fill="#79ced4"/>
+<rect x="889.235" y="204" width="12.121" height="12" fill="#9ba3d9"/>
+<rect x="901.305" y="204" width="5.642" height="12" fill="#8fc9e9"/>
+<rect x="906.897" y="204" width="5.070" height="12" fill="#b6a1d9"/>
+<rect x="911.917" y="204" width="16.133" height="12" fill="#8a8c9c"/>
 </g>
 <circle cx="36" cy="245" r="4" fill="#7ca8dd"/>
 <text x="49" y="250" fill="#242139" font-size="13" >C</text>
-<text x="234" y="250" fill="#65617e" font-size="13" text-anchor="end">55.7%</text>
+<text x="234" y="250" fill="#65617e" font-size="13" text-anchor="end">55.6%</text>
 <circle cx="266" cy="245" r="4" fill="#a895eb"/>
 <text x="279" y="250" fill="#242139" font-size="13" >C++</text>
 <text x="464" y="250" fill="#65617e" font-size="13" text-anchor="end">35.4%</text>
