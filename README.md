@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  <b>Direct-entry Ph.D. Student · UCAS &amp; Zhongguancun Laboratory</b><br>
+  <b>Direct-entry Ph.D. Student · UCAS ZGCLAB</b><br>
   <sub>AI Agent Security &nbsp; / &nbsp; Software Security &nbsp; / &nbsp; Advanced Persistent Threats</sub>
 </p>
 
