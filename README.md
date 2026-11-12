@@ -3,14 +3,9 @@
   <img alt="Lynnette — Explore internals. Build useful things." src="assets/header-light.svg" width="100%">
 </picture>
 
-<p align="center">
-  <b>Direct-entry Ph.D. Student · UCAS ZGCLAB</b><br>
-  <sub>AI Agent Security &nbsp; / &nbsp; Software Security &nbsp; / &nbsp; Advanced Persistent Threats</sub>
-</p>
-
 ### About me
 
-I'm a direct-entry Ph.D. student jointly trained by the **University of Chinese Academy of Sciences (UCAS)** and **ZGCLAB**. I received my bachelor's degree in **Cybersecurity** from **Beijing University of Posts and Telecommunications (BUPT)**.
+Ph.D. Student @ UCAS & ZGCLAB | BUPT Alumnus.
 
 My research focuses on **AI agent security**, **software security**, and **advanced persistent threats (APTs)**. I also build tools for reverse engineering, mobile instrumentation, and everyday automation.
 
